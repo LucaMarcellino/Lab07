@@ -1,0 +1,19 @@
+Caso terminale
+	-livello == termineMappa
+	-if(parziale.sommapersone<worst.sommapersone && )
+		worst.addAll(parziale);
+		modificare il dao
+		
+
+soluzione parziale
+	-se aggiungere
+		-numero di persone >= su numero di ore minori
+		-se il la differenza ore è minore di ore rimaste
+		-se rimane nei 4 anni dal più piccolo
+		
+		
+
+		
+		
+	
+	

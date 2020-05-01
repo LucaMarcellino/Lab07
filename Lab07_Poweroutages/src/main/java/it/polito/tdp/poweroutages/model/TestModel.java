@@ -5,8 +5,10 @@ public class TestModel {
 	public static void main(String[] args) {
 		
 		Model model = new Model();
-		System.out.println(model.getNercList());
-
+		PowerOutage po= new PowerOutage();
+		//System.out.println(model.getNercList());
+		System.out.print(model.cercaEventi(4, 200, new Nerc(3,"MAAC")));
+		
 	}
 
 }
